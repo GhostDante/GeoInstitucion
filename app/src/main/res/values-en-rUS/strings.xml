@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoInstitu</string>
+    <string name="nombre">Name</string>
+    <string name="sede">Host</string>
+    <string name="direccion">Address</string>
+    <string name="universidad">Mariana University</string>
+    <string name="instituTitulo">Educational Institutions San Juan de Pasto</string>
+    <string name="estado">Status</string>
+    <string name="inversion">Investment</string>
+    <string name="cambios">Changes made</string>
+    <string name="instituciones">Institutions</string>
+    <string name="reformas">Reforms</string>
+    <string name="acercade">About ...</string>
+    <string name="salir">Exit</string>
+    <string name="volver">Back</string>
+</resources>

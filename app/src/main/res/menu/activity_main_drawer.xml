@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_instituciones"
+            android:icon="@drawable/logoinstitu"
+            android:title="@string/instituciones" />
+        <item
+            android:id="@+id/nav_construcciones"
+            android:icon="@drawable/logoconstru"
+            android:title="@string/reformas" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_Acercade"
+                android:icon="@drawable/ic_perm_device_information_black_24dp"
+                android:title="@string/acercade" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="@string/salir" />
+        </menu>
+    </item>
+
+</menu>

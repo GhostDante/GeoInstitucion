@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoInstitu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nombre">Nombre</string>
+    <string name="sede">Sede</string>
+    <string name="direccion">Direccion</string>
+    <string name="universidad">Universidad Mariana</string>
+    <string name="instituTitulo">Instituciones Educativas San Juan de Pasto</string>
+    <string name="estado">Estado</string>
+    <string name="inversion">Inversion</string>
+    <string name="cambios">Cambios realizados</string>
+    <string name="instituciones">Instituciones</string>
+    <string name="reformas">Reformas</string>
+    <string name="acercade">Acerca de ...</string>
+    <string name="salir">Salir</string>
+    <string name="volver">Volver</string>
+</resources>
